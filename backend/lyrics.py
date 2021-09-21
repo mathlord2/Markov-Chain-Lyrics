@@ -66,5 +66,3 @@ def scrapeLyrics(artist):
             pass
     
     return song_lyrics
-
-print(scrapeLyrics("drake"))
